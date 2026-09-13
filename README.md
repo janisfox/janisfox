@@ -18,7 +18,7 @@ feel free to join my discord server! (we seriously need more people)
 3. Java (School & Minecraft)
 4. Python
 5. C++
-i've been programming for years, so picking up a new language usually isn't too scary! QwQ
+<br>i've been programming for years, so picking up a new language usually isn't too scary! QwQ
 
 ## 🛠️ Technical Skills
 - Git
