@@ -34,6 +34,7 @@ i've been programming for years, so picking up a new language usually isn't too 
 
 ## 🪜 Projects
 **🟢 Currently working on**
+- [Neyuki](https://github.com/neyuki-lang/neyuki)¹: my own programming language written in Rust. i'm making it so i can keep my obsession with Luau while having more freedom!
 - [Aegis](https://github.com/janisfox/aegis): a Roblox anti-cheat with a built-in obfuscator and movement recorder that captures the last 30 seconds
 
 **🟡 Past/Archived Projects**
